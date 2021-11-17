@@ -1,20 +1,15 @@
 {
   "name": "monsoon_template",
-  "version": "0.1.0",
-  "bin": {
-    "monsoon_template": "bin/monsoon_template.js"
-  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "test_script.js",
   "scripts": {
-    "build": "echo \"The build step is not required when using JavaScript!\" && exit 0",
-    "cdk": "cdk",
-    "test": "jest"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "devDependencies": {
-    "@aws-cdk/assertions": "1.132.0",
-    "aws-cdk": "1.132.0",
-    "jest": "^26.4.2"
-  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "@aws-cdk/core": "1.132.0"
+    "monsoon-weather-station": "^1.0.0",
+    "puppeteer": "^10.4.0"
   }
 }
