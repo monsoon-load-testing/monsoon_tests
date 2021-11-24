@@ -1,5 +1,5 @@
 {
   "testLengthInMinutes": 10,
-  "numberOfUsers": 10,
+  "numberOfUsers": 40,
   "rampUpLengthInMinutes": 2
 }
